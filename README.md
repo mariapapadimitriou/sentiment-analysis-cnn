@@ -15,7 +15,7 @@ Y. Kim, “Convolutional neural networks for sentence classification,” arXiv.o
 
 [CNN-SVM image rec.py]: adapted from https://github.com/AFAgarap/cnn-svm
 
-[CNN sent-anal.py]: adapted from https://github.com/bentrevett/pytorch-sentiment-analysis/blob/master/4%20-%20Convolutional%20Sentiment%20Analysis.ipynb
+image-recognition-cnn-svm.ipynb: adapted from https://github.com/bentrevett/pytorch-sentiment-analysis/blob/master/4%20-%20Convolutional%20Sentiment%20Analysis.ipynb
 
 [CNN SVM sent. Anal.py]: our own program; using methodologies and parts of code from the two previous files. 
 
