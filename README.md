@@ -13,11 +13,11 @@ Y. Kim, “Convolutional neural networks for sentence classification,” arXiv.o
 
 # Python Files and Code Used from Other Repos
 
-sentiment-analysis-cnn-svm.ipynb: adapted from https://github.com/AFAgarap/cnn-svm
+image-recognition-cnn-svm.ipynb: adapted from https://github.com/AFAgarap/cnn-svm
 
-image-recognition-cnn-svm.ipynb: adapted from https://github.com/bentrevett/pytorch-sentiment-analysis/blob/master/4%20-%20Convolutional%20Sentiment%20Analysis.ipynb
+sentiment-analysis-cnn.ipynb: adapted from https://github.com/bentrevett/pytorch-sentiment-analysis/blob/master/4%20-%20Convolutional%20Sentiment%20Analysis.ipynb
 
-[CNN SVM sent. Anal.py]: our own program; using methodologies and parts of code from the two previous files. 
+sentiment-analysis-cnn-svm.ipynb: our own program; using methodologies and parts of code from the two previous files.
 
 # Setup and Run
 
